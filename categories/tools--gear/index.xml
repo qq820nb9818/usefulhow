@@ -1,4 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tools &amp; Gear on UsefulHow</title><link>https://usefulhow.info/categories/tools--gear/</link><description>Recent content in Tools &amp; Gear on UsefulHow</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://usefulhow.info/categories/tools--gear/index.xml" rel="self" type="application/rss+xml"/><item><title>Tankless vs Tank Water Heater: Which Is Right for Your Home?</title><link>https://usefulhow.info/tools-gear/tankless-vs-tank-water-heater/</link><pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/tools-gear/tankless-vs-tank-water-heater/</guid><description>&lt;p&gt;A water heater is the one appliance you never think about until it fails. Then you&amp;rsquo;re standing in a cold shower or staring at a puddle in the basement, trying to make a $1,500 decision in about ten minutes. The smart way to make this call is before the old one dies. Here&amp;rsquo;s the honest comparison between tank and tankless — not what the sales brochure says, but what actually matters when you live with one.&lt;/p&gt;</description></item><item><title>Cordless Drill vs Impact Driver: Which One Do You Need?</title><link>https://usefulhow.info/tools-gear/cordless-drill-vs-impact-driver/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/tools-gear/cordless-drill-vs-impact-driver/</guid><description>&lt;h2 id="what-youll-need"&gt;What You&amp;rsquo;ll Need&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tools &amp; Gear on UsefulHow</title><link>https://usefulhow.info/categories/tools--gear/</link><description>Recent content in Tools &amp; Gear on UsefulHow</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://usefulhow.info/categories/tools--gear/index.xml" rel="self" type="application/rss+xml"/><item><title>Stud Finder vs Magnet: Which is Actually Better for Finding Wall Studs?</title><link>https://usefulhow.info/tools-gear/stud-finder-vs-magnet/</link><pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/tools-gear/stud-finder-vs-magnet/</guid><description>&lt;!--
+{
+ "@context": "https://schema.org",
+ "@type": "HowTo",
+ "name": "Stud Finder vs Magnet: Which is Actually Better for Finding Wall Studs?",
+ "description": "Compare stud finders and magnets to find the best tool for locating wall studs in your home.",
+ "totalTime": "PT10M",
+ "tool": [
+ {"@type": "Thing", "name": "battery-powered stud finder"},
+ {"@type": "Thing", "name": "neodymium magnet"},
+ {"@type": "Thing", "name": "pencil"},
+ {"@type": "Thing", "name": "tape measure"}
+ ],
+ "supply": [],
+ "step": [
+ {
+ "@type": "HowToStep",
+ "position": 1,
+ "name": "Test the Magnet",
+ "text": "Hold the magnet against the wall. Mark spots where it sticks—these are nails or screws, not studs."
+ },
+ {
+ "@type": "HowToStep",
+ "position": 2,
+ "name": "Scan with the Stud Finder",
+ "text": "Turn on the stud finder. Slide it slowly along the wall. Mark the center of each stud signal."
+ },
+ {
+ "@type": "HowToStep",
+ "position": 3,
+ "name": "Compare Results",
+ "text": "Overlay magnet marks with stud finder marks. Studs will show on both or just the finder."
+ },
+ {
+ "@type": "HowToStep",
+ "position": 4,
+ "name": "Verify with a Tap",
+ "text": "Knock on marked spots. A solid sound means a stud; hollow means drywall."
+ },
+ {
+ "@type": "HowToStep",
+ "position": 5,
+ "name": "Mark the Studs",
+ "text": "Use a pencil to draw a vertical line on each stud. Add painter's tape for clarity."
+ }
+ ]
+}
+--&gt;
+&lt;h2 id="what-youll-need"&gt;What You&amp;rsquo;ll Need&lt;/h2&gt;
+&lt;p&gt;A stud finder is more reliable than a magnet for finding studs. Here&amp;rsquo;s what you need to compare them yourself.&lt;/p&gt;</description></item><item><title>Tankless vs Tank Water Heater: Which Is Right for Your Home?</title><link>https://usefulhow.info/tools-gear/tankless-vs-tank-water-heater/</link><pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/tools-gear/tankless-vs-tank-water-heater/</guid><description>&lt;p&gt;A water heater is the one appliance you never think about until it fails. Then you&amp;rsquo;re standing in a cold shower or staring at a puddle in the basement, trying to make a $1,500 decision in about ten minutes. The smart way to make this call is before the old one dies. Here&amp;rsquo;s the honest comparison between tank and tankless — not what the sales brochure says, but what actually matters when you live with one.&lt;/p&gt;</description></item><item><title>Cordless Drill vs Impact Driver: Which One Do You Need?</title><link>https://usefulhow.info/tools-gear/cordless-drill-vs-impact-driver/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/tools-gear/cordless-drill-vs-impact-driver/</guid><description>&lt;h2 id="what-youll-need"&gt;What You&amp;rsquo;ll Need&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Cordless drill (18V or 20V recommended)&lt;/li&gt;
 &lt;li&gt;Impact driver (same voltage class)&lt;/li&gt;
