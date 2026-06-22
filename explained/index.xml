@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Explained on UsefulHow</title><link>https://usefulhow.info/explained/</link><description>Recent content in Explained on UsefulHow</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://usefulhow.info/explained/index.xml" rel="self" type="application/rss+xml"/><item><title>High Water Pressure? What Is a Pressure Regulator and Why You Need One</title><link>https://usefulhow.info/explained/water-pressure-regulator-why-need/</link><pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/explained/water-pressure-regulator-why-need/</guid><description>&lt;!--
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Explained on UsefulHow</title><link>https://usefulhow.info/explained/</link><description>Recent content in Explained on UsefulHow</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://usefulhow.info/explained/index.xml" rel="self" type="application/rss+xml"/><item><title>Ceiling Fan Direction for Summer and Winter: Which Way to Turn</title><link>https://usefulhow.info/explained/ceiling-fan-direction/</link><pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/explained/ceiling-fan-direction/</guid><description>&lt;!--
+{
+ "@context": "https://schema.org",
+ "@type": "HowTo",
+ "name": "Ceiling Fan Direction for Summer and Winter: Which Way to Turn",
+ "description": "Set your ceiling fan to the correct direction each season and save on energy bills.",
+ "totalTime": "PT5M",
+ "tool": [
+ {"@type": "Thing", "name": "Step stool"}
+ ],
+ "supply": [],
+ "step": [
+ {"@type": "HowToStep", "position": 1, "name": "Turn the fan off", "text": "Pull the chain or flip the switch until blades stop completely."},
+ {"@type": "HowToStep", "position": 2, "name": "Locate the direction switch", "text": "Find the small toggle on the motor housing near the top of the fan."},
+ {"@type": "HowToStep", "position": 3, "name": "Set counterclockwise for summer", "text": "Flip the switch so blades spin counterclockwise. This pushes air down for a cooling breeze."},
+ {"@type": "HowToStep", "position": 4, "name": "Set clockwise for winter", "text": "Flip the switch the other way so blades spin clockwise. This pushes warm air down from the ceiling."},
+ {"@type": "HowToStep", "position": 5, "name": "Verify airflow", "text": "Stand under the fan on low speed. Feel for downward breeze in summer or no draft in winter."}
+ ]
+}
+--&gt;
+&lt;p&gt;Set your ceiling fan counterclockwise in summer and clockwise in winter. The direction switch sits on the motor housing and takes five seconds to flip. Get it wrong and your fan fights against you every season.&lt;/p&gt;</description></item><item><title>High Water Pressure? What Is a Pressure Regulator and Why You Need One</title><link>https://usefulhow.info/explained/water-pressure-regulator-why-need/</link><pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/explained/water-pressure-regulator-why-need/</guid><description>&lt;!--
 {
  "@context": "https://schema.org",
  "@type": "HowTo",

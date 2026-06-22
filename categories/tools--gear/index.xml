@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tools &amp; Gear on UsefulHow</title><link>https://usefulhow.info/categories/tools--gear/</link><description>Recent content in Tools &amp; Gear on UsefulHow</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://usefulhow.info/categories/tools--gear/index.xml" rel="self" type="application/rss+xml"/><item><title>How Often Should You Replace Your AC Filter? (And Which MERV Rating You Need)</title><link>https://usefulhow.info/tools-gear/how-often-replace-ac-filter-merv-rating/</link><pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/tools-gear/how-often-replace-ac-filter-merv-rating/</guid><description>&lt;!--
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tools &amp; Gear on UsefulHow</title><link>https://usefulhow.info/categories/tools--gear/</link><description>Recent content in Tools &amp; Gear on UsefulHow</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://usefulhow.info/categories/tools--gear/index.xml" rel="self" type="application/rss+xml"/><item><title>Smart Thermostat vs Programmable Thermostat: What's the Difference</title><link>https://usefulhow.info/tools-gear/smart-vs-programmable-thermostat/</link><pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/tools-gear/smart-vs-programmable-thermostat/</guid><description>&lt;!--
+{
+ "@context": "https://schema.org",
+ "@type": "HowTo",
+ "name": "Smart Thermostat vs Programmable Thermostat: What's the Difference",
+ "description": "Compare smart and programmable thermostats to find the right one for your home and save on energy bills.",
+ "totalTime": "PT10M",
+ "tool": [
+ {"@type": "Thing", "name": "Screwdriver"},
+ {"@type": "Thing", "name": "Phone (for smart thermostat app)"}
+ ],
+ "supply": [],
+ "step": [
+ {"@type": "HowToStep", "position": 1, "name": "Check compatibility", "text": "Pull your thermostat off the wall and count the wires. Look for a C-wire for constant power."},
+ {"@type": "HowToStep", "position": 2, "name": "Compare scheduling", "text": "Programmable lets you set 4 temperature changes per day. Smart thermostats learn your patterns automatically."},
+ {"@type": "HowToStep", "position": 3, "name": "Compare smart features", "text": "Smart models use geofencing and track energy use. Programmable just follows the clock."},
+ {"@type": "HowToStep", "position": 4, "name": "Compare installation", "text": "Both mount on the same wall plate. Smart models add a phone app setup step."},
+ {"@type": "HowToStep", "position": 5, "name": "Match to your lifestyle", "text": "Buy programmable for fixed hours. Buy smart if your schedule varies."},
+ {"@type": "HowToStep", "position": 6, "name": "Check for rebates", "text": "Search your utility website for smart thermostat rebates before buying."}
+ ]
+}
+--&gt;
+&lt;p&gt;A smart thermostat learns your schedule and adjusts itself. A programmable thermostat follows a fixed schedule you set once. The real difference comes down to whether you want set-it-and-forget-it automation or manual control at a lower price.&lt;/p&gt;</description></item><item><title>How Often Should You Replace Your AC Filter? (And Which MERV Rating You Need)</title><link>https://usefulhow.info/tools-gear/how-often-replace-ac-filter-merv-rating/</link><pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/tools-gear/how-often-replace-ac-filter-merv-rating/</guid><description>&lt;!--
 {
  "@context": "https://schema.org",
  "@type": "HowTo",
