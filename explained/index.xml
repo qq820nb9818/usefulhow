@@ -1,189 +1,150 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Explained on UsefulHow</title><link>https://usefulhow.info/explained/</link><description>Recent content in Explained on UsefulHow</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://usefulhow.info/explained/index.xml" rel="self" type="application/rss+xml"/><item><title>Ceiling Fan Direction for Summer and Winter: Which Way to Turn</title><link>https://usefulhow.info/explained/ceiling-fan-direction/</link><pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/explained/ceiling-fan-direction/</guid><description>&lt;!--
-{
- "@context": "https://schema.org",
- "@type": "HowTo",
- "name": "Ceiling Fan Direction for Summer and Winter: Which Way to Turn",
- "description": "Set your ceiling fan to the correct direction each season and save on energy bills.",
- "totalTime": "PT5M",
- "tool": [
- {"@type": "Thing", "name": "Step stool"}
- ],
- "supply": [],
- "step": [
- {"@type": "HowToStep", "position": 1, "name": "Turn the fan off", "text": "Pull the chain or flip the switch until blades stop completely."},
- {"@type": "HowToStep", "position": 2, "name": "Locate the direction switch", "text": "Find the small toggle on the motor housing near the top of the fan."},
- {"@type": "HowToStep", "position": 3, "name": "Set counterclockwise for summer", "text": "Flip the switch so blades spin counterclockwise. This pushes air down for a cooling breeze."},
- {"@type": "HowToStep", "position": 4, "name": "Set clockwise for winter", "text": "Flip the switch the other way so blades spin clockwise. This pushes warm air down from the ceiling."},
- {"@type": "HowToStep", "position": 5, "name": "Verify airflow", "text": "Stand under the fan on low speed. Feel for downward breeze in summer or no draft in winter."}
- ]
-}
---&gt;
-&lt;p&gt;Set your ceiling fan counterclockwise in summer and clockwise in winter. The direction switch sits on the motor housing and takes five seconds to flip. Get it wrong and your fan fights against you every season.&lt;/p&gt;</description></item><item><title>Drywall Taping and Mudding Explained: The Full Process Step by Step</title><link>https://usefulhow.info/explained/drywall-taping-mudding/</link><pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/explained/drywall-taping-mudding/</guid><description>&lt;p&gt;Let me save you some trouble. Taping and mudding drywall looks easy when you watch someone who&amp;rsquo;s done it a thousand times. It&amp;rsquo;s not easy. Not even close.&lt;/p&gt;
-&lt;p&gt;I messed this up the first time. Badly.&lt;/p&gt;
-&lt;p&gt;The joints showed through the paint. Screw holes kept dimpling. I sanded so much I burned through the paper facing and had to patch my patches. Anyway. Learn from my mistakes. Here&amp;rsquo;s the actual process, step by step.&lt;/p&gt;</description></item><item><title>Paint Sheen Explained: Flat, Eggshell, Satin, Semi-Gloss, and When to Use Each</title><link>https://usefulhow.info/explained/paint-sheen-comparison/</link><pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/explained/paint-sheen-comparison/</guid><description>&lt;p&gt;Paint sheen confuses everyone. I&amp;rsquo;ll be honest with you — I stood in the paint aisle for 20 minutes the first time, staring at cans labeled flat, eggshell, satin, and semi-gloss with zero clue what any of them actually meant.&lt;/p&gt;
-&lt;p&gt;Here&amp;rsquo;s the short version. Sheen equals shine. The more shine, the tougher the paint. The more shine, the more every wall flaw screams at you. Trade-offs everywhere.&lt;/p&gt;
-&lt;p&gt;Let me walk you through each one.&lt;/p&gt;</description></item><item><title>Wood Framing vs Masonry Homes: What's the Actual Difference?</title><link>https://usefulhow.info/explained/wood-framing-vs-masonry/</link><pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/explained/wood-framing-vs-masonry/</guid><description>&lt;p&gt;Here&amp;rsquo;s the thing nobody tells you when you&amp;rsquo;re house shopping — nobody explains what the walls are actually made of. You walk through, knock on a wall, say &amp;ldquo;nice,&amp;rdquo; and move on. Big mistake.&lt;/p&gt;
-&lt;p&gt;I found out the hard way so you don&amp;rsquo;t have to.&lt;/p&gt;
-&lt;p&gt;Wood framing and masonry aren&amp;rsquo;t just different materials. They change how your house feels, how much it costs to heat, and what happens when a storm rolls through. Let me break it down.&lt;/p&gt;</description></item><item><title>High Water Pressure? What Is a Pressure Regulator and Why You Need One</title><link>https://usefulhow.info/explained/water-pressure-regulator-why-need/</link><pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/explained/water-pressure-regulator-why-need/</guid><description>&lt;!--
-{
- "@context": "https://schema.org",
- "@type": "HowTo",
- "name": "High Water Pressure? What Is a Pressure Regulator and Why You Need One",
- "description": "Understand what a pressure regulator is and why it protects your home plumbing from high water pressure.",
- "totalTime": "PT5M",
- "tool": [
- {"@type": "HowToTool", "name": "Pressure gauge"},
- {"@type": "HowToTool", "name": "Adjustable wrench"}
- ],
- "supply": [],
- "step": [
- {"@type": "HowToStep", "position": 1, "name": "Identify high pressure", "text": "Check for banging pipes, leaking faucets, or appliance damage. These are common signs of excessive water pressure."},
- {"@type": "HowToStep", "position": 2, "name": "Locate the regulator", "text": "Find the bell-shaped valve near your main water shut-off. It is usually installed right after the water meter."},
- {"@type": "HowToStep", "position": 3, "name": "Understand the mechanism", "text": "Know that a spring and diaphragm automatically adjust valve flow. They maintain a safe, constant output pressure."},
- {"@type": "HowToStep", "position": 4, "name": "Test your pressure", "text": "Attach a gauge to an outdoor hose bib to read the exact PSI. Safe residential pressure ranges from 30 to 80 PSI."},
- {"@type": "HowToStep", "position": 5, "name": "Adjust if needed", "text": "Turn the adjustment screw to lower pressure above 80 PSI. Turn clockwise to increase pressure or counterclockwise to decrease it."}
- ]
-}
---&gt;
-&lt;h2 id="what-youll-need"&gt;What You&amp;rsquo;ll Need&lt;/h2&gt;
-&lt;p&gt;A pressure regulator protects your plumbing from damage caused by high water pressure. Here&amp;rsquo;s what you need to test and adjust it.&lt;/p&gt;</description></item><item><title>Does Your Basement Need a Sump Pump? Here's How to Tell</title><link>https://usefulhow.info/explained/basement-need-sump-pump/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/explained/basement-need-sump-pump/</guid><description>&lt;h2 id="the-short-answer"&gt;The Short Answer&lt;/h2&gt;
-&lt;p&gt;If your basement shows water stains, feels persistently damp after rain, or carries a musty odor, you likely need a sump pump. It&amp;rsquo;s one of those protections you hope never to use — until you walk downstairs after a heavy storm and find standing water ruining your belongings. I&amp;rsquo;ve been there. A few targeted checks will tell you whether your home needs this critical defense.&lt;/p&gt;
-&lt;h2 id="what-a-sump-pump-actually-does"&gt;What a Sump Pump Actually Does&lt;/h2&gt;
-&lt;p&gt;A sump pump sits in a pit at the lowest point of your basement or crawlspace. When groundwater rises into the pit, a float switch activates the pump, pushing water out through a discharge pipe away from your foundation before it reaches floor level. Think of it as a preventive system, not a cleanup tool. By the time you see standing water on the floor, the pump has either failed or was never installed.&lt;/p&gt;</description></item><item><title>How Compression Fittings Work (And How to Install One Without Soldering)</title><link>https://usefulhow.info/explained/compression-fittings-work-install-one-without/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/explained/compression-fittings-work-install-one-without/</guid><description>&lt;h2 id="the-short-answer"&gt;The Short Answer&lt;/h2&gt;
-&lt;p&gt;Compression fittings create secure, watertight pipe joints without soldering, glue, or heat. They work by squeezing a soft metal ring called a ferrule tight against the pipe and fitting body as you tighten the nut. I keep a few in my plumbing repair kit because they work on copper, PEX, and soft metal pipes, and you don&amp;rsquo;t need a torch or any special skills. They are not compatible with rigid PVC, CPVC, or ABS pipes.&lt;/p&gt;</description></item><item><title>Are SharkBite Fittings Reliable? What Plumbers Want You to Know</title><link>https://usefulhow.info/explained/sharkbite-fittings-reliable/</link><pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/explained/sharkbite-fittings-reliable/</guid><description>&lt;script type="application/ld+json"&gt;
-{
- "@context": "https://schema.org",
- "@type": "HowTo",
- "name": "Are SharkBite Fittings Reliable? What Plumbers Want You to Know",
- "description": "Learn why SharkBite push-fit fittings fail, how to install them correctly, and where they're approved for use in residential plumbing.",
- "totalTime": "PT20M",
- "tool": [
- {"@type": "HowToTool", "name": "Rotary pipe cutter"},
- {"@type": "HowToTool", "name": "Deburring tool or fine file"},
- {"@type": "HowToTool", "name": "Manufacturer's depth gauge"},
- {"@type": "HowToTool", "name": "Disconnect clip or tongs"},
- {"@type": "HowToTool", "name": "SharkBite fitting (verify size matches pipe OD exactly)"},
- {"@type": "HowToTool", "name": "Clean lint-free rag"}
- ],
- "supply": [
- {"@type": "HowToSupply", "name": "Isopropyl alcohol (copper only; PEX and CPVC require dry wipe only)"}
- ],
- "step": [
- {
- "@type": "HowToStep",
- "position": 1,
- "name": "Verify application suitability and code compliance",
- "text": "Confirm your local authority having jurisdiction permits push-fit fittings for your intended use. While SharkBite carries NSF/ANSI 61 certification for potable water across all 50 states, individual municipalities may prohibit concealed installation or require mechanical support. Never install on gas lines, hydronic heating, compressed air, or underground without written manufacturer approval."
- },
- {
- "@type": "HowToStep",
- "position": 2,
- "name": "Cut the pipe perfectly square with a rotary cutter",
- "text": "Use a quality tubing cutter rotated evenly around the pipe circumference. Hacksaws, PVC ratchets, or abrasive wheels produce tapered or crushed ends that prevent uniform O-ring compression. Inspect the cut face against a flat surface and discard any section with more than a 5-degree deviation."
- },
- {
- "@type": "HowToStep",
- "position": 3,
- "name": "Deburr inside and outside edges completely",
- "text": "Run a deburring tool along both inner and outer circumferences until smooth to the touch. Burrs as small as 0.005 inch can gouge the sealing O-ring during insertion, creating micro-leaks that manifest weeks later. Immediately wipe away all metal or plastic debris."
- },
- {
- "@type": "HowToStep",
- "position": 4,
- "name": "Clean the pipe and mark the exact insertion depth",
- "text": "Wipe the pipe end thoroughly with a lint-free rag. For copper, use isopropyl alcohol to remove verdigris until bare metal shines. Insert the manufacturer's depth gauge into the fitting and transfer the precise insertion mark to the pipe. Do not estimate: 1/2-inch pipe requires 7/8-inch insertion, 3/4-inch requires 1-1/8-inch, and 1-inch requires 1-5/16-inch."
- },
- {
- "@type": "HowToStep",
- "position": 5,
- "name": "Insert the fitting straight to the depth mark without twisting",
- "text": "Align the pipe perpendicular to the fitting and push with firm, continuous pressure until resistance stops. Visually verify through the inspection window that the pipe reaches the marked line. Never rotate or wiggle during insertion. If the mark isn't fully visible, remove and restart."
- },
- {
- "@type": "HowToStep",
- "position": 6,
- "name": "Pressure test before concealing the joint",
- "text": "Restore the water supply slowly while monitoring the joint under full system pressure, typically 40 to 80 PSI for residential systems. Inspect for seepage, bulging, or dripping at 5-minute intervals over a minimum of 30 minutes. SharkBite fittings withstand 200 PSI continuous when installed correctly."
- },
- {
- "@type": "HowToStep",
- "position": 7,
- "name": "Document the location and ensure accessibility",
- "text": "Photograph all joints before drywall closure and note locations in your project documentation. Never bury push-fit fittings behind finished surfaces unless your local code explicitly permits it and you install a removable access panel. Label accessible joints with the date and installer information for future troubleshooting."
- }
- ]
-}
-&lt;/script&gt;
-&lt;p&gt;SharkBite push-fit fittings are reliable when installed correctly on approved applications, but their reputation suffers from improper preparation — not inherent design flaws. Most field failures stem from three preventable errors: uneven pipe cuts, incomplete deburring, or partial insertion. Plumbers remain cautious because these fittings cost more than soldered or solvent-welded joints, some jurisdictions restrict concealed installation, and a hidden leak becomes catastrophic. I was nervous the first time I used one on a copper repair inside a finished wall. Years later, that joint has never leaked. The difference was spending an extra five minutes on preparation. Used properly on exposed runs, service closets, or emergency repairs — with meticulous pipe prep — they deliver decades of leak-free performance.&lt;/p&gt;</description></item><item><title>AFCI vs GFCI: What's the Difference? (And Which One Do You Need?)</title><link>https://usefulhow.info/explained/afci-vs-gfci/</link><pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/explained/afci-vs-gfci/</guid><description>&lt;h2 id="the-short-answer"&gt;The Short Answer&lt;/h2&gt;
-&lt;p&gt;AFCI and GFCI devices both save lives, but they guard against fundamentally different hazards. GFCIs prevent electrocution from ground faults — current leaking through water or a person. AFCIs prevent fires from arcing faults — sparks from damaged wires or loose connections. I remember opening my first electrical panel and seeing breakers with test buttons labeled both ways and having no idea which was which. This guide helps you identify what protection you actually have, where code requires it, and how to verify it&amp;rsquo;s working.&lt;/p&gt;</description></item><item><title>PEX vs Copper vs PVC: Which Pipe Should You Use?</title><link>https://usefulhow.info/explained/pex-vs-copper-vs-pvc/</link><pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/explained/pex-vs-copper-vs-pvc/</guid><description>&lt;p&gt;PEX, copper, and PVC each have their sweet spot in a home plumbing system. PEX bends around corners without joints. Copper lasts for decades but costs more. PVC handles drain lines and vents like a champ. This guide helps you pick the right one for your project — not the one a big-box store happens to have in stock.&lt;/p&gt;
-&lt;p&gt;I learned this lesson sweating copper pipe in a crawl space at 10 p.m. on a Sunday. Two hours, three burnt fingers, and one small fire later, I wished someone had told me PEX existed. Now I use it for most supply line work and save copper for exposed runs where it looks clean and professional.&lt;/p&gt;</description></item><item><title>What Is Drywall Made Of? (And How to Tell It Apart from Plaster)</title><link>https://usefulhow.info/explained/what-is-drywall-made-of/</link><pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/explained/what-is-drywall-made-of/</guid><description>&lt;h2 id="the-short-answer"&gt;The Short Answer&lt;/h2&gt;
-&lt;p&gt;Drywall and plaster are the two most common interior wall materials in North American homes, but they require completely different repair approaches. Misidentifying your wall type leads to failed patches, wasted materials, and costly rework. I learned this the hard way when I tried patching a plaster wall in my first apartment with standard drywall mud — it cracked and fell out within a month. Use these inspection steps to confidently determine what your walls are made of before you open any repair materials.&lt;/p&gt;</description></item><item><title>What Is a Stud Finder? (And How It Works)</title><link>https://usefulhow.info/explained/what-is-a-stud-finder/</link><pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/explained/what-is-a-stud-finder/</guid><description>&lt;h2 id="the-short-answer"&gt;The Short Answer&lt;/h2&gt;
-&lt;p&gt;A stud finder is a handheld tool that locates wooden wall studs behind drywall. It works by detecting density changes or metal fasteners under the wall surface. I spent years tapping on walls and listening for the hollow-vs-solid sound change before I finally bought one. The first time I used it to hang a heavy mirror, I realized how much guesswork I&amp;rsquo;d been doing. This tool prevents misplaced drill holes and ensures secure mounting for anything heavy.&lt;/p&gt;</description></item><item><title>What Is an Anode Rod? (And Why It Extends Your Water Heater's Life)</title><link>https://usefulhow.info/explained/what-is-an-anode-rod/</link><pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/explained/what-is-an-anode-rod/</guid><description>&lt;script type="application/ld+json"&gt;
-{
- "@context": "https://schema.org",
- "@type": "HowTo",
- "name": "What Is an Anode Rod? (And Why It Extends Your Water Heater's Life)",
- "description": "Learn what a water heater anode rod does, how to inspect it for depletion, and how to replace it before your tank rusts out.",
- "totalTime": "PT30M",
- "tool": [
- {"@type": "HowToTool", "name": "1-1/16-inch socket wrench (1-1/8-inch for some Rheem/AO Smith models)"},
- {"@type": "HowToTool", "name": "Breaker bar or long ratchet handle"},
- {"@type": "HowToTool", "name": "Garden hose"},
- {"@type": "HowToTool", "name": "Flashlight"}
- ],
- "supply": [
- {"@type": "HowToSupply", "name": "Teflon tape or pipe thread sealant"},
- {"@type": "HowToSupply", "name": "Replacement anode rod (magnesium, aluminum, or zinc-aluminum alloy)"}
- ],
- "step": [
- {
- "@type": "HowToStep",
- "position": 1,
- "name": "Shut off the power or gas and the cold water supply",
- "text": "Turn off the dedicated circuit breaker for an electric heater, or rotate the gas control valve to OFF. Close the cold water inlet valve completely to hydraulically isolate the tank."
- },
- {
- "@type": "HowToStep",
- "position": 2,
- "name": "Relieve pressure and drain 2 to 3 gallons of water",
- "text": "Open the nearest hot water faucet to equalize internal pressure. Connect a garden hose to the tank's drain valve and discharge 2 to 3 gallons into a floor drain or bucket. Lowering the water level below the anode port eliminates the hydrostatic pressure that causes scalding spray when loosening the rod."
- },
- {
- "@type": "HowToStep",
- "position": 3,
- "name": "Locate and expose the anode rod hex head",
- "text": "Find the hexagonal plug on the tank's upper surface, often concealed beneath a plastic dust cap. Remove all insulation and debris from the surrounding threads. If heavily corroded, apply penetrating oil and wait 10 minutes. Verify socket engagement depth before applying torque."
- },
- {
- "@type": "HowToStep",
- "position": 4,
- "name": "Remove the anode rod with steady leverage",
- "text": "Seat the socket fully onto the hex head. Attach a breaker bar and apply smooth, sustained counterclockwise force. Jerking motions risk shearing the rod stub inside the tank. Once broken free, lift the rod vertically without lateral stress."
- },
- {
- "@type": "HowToStep",
- "position": 5,
- "name": "Inspect the rod for depletion",
- "text": "Examine the entire length under bright light. The rod is functionally exhausted if the central steel core wire is exposed for more than 6 continuous inches, or if less than half an inch of sacrificial coating remains at any section. Severe pitting, flaking, or cauliflower-like deposits signal advanced consumption."
- },
- {
- "@type": "HowToStep",
- "position": 6,
- "name": "Install the new rod with proper sealing",
- "text": "Wrap the male threads clockwise with 3 to 4 wraps of Teflon tape, or apply manufacturer-approved sealant. Insert the rod fully until it seats against the tank's internal shoulder. Hand-start the threads to avoid cross-threading, then tighten securely with a wrench."
- },
- {
- "@type": "HowToStep",
- "position": 7,
- "name": "Refill the tank and verify leak-free operation",
- "text": "Ensure the drain valve is fully closed. Slowly reopen the cold water inlet while leaving the hot faucet running to bleed trapped air. When a steady, bubble-free stream flows from the faucet, close it. Monitor the anode port closely for 5 minutes for any drips."
- }
- ]
-}
-&lt;/script&gt;
-&lt;p&gt;An anode rod is a sacrificial metal rod threaded into the top of your water heater tank. It protects the steel liner through galvanic action: as the most electrochemically active metal in the system, it corrodes preferentially so the tank doesn&amp;rsquo;t. All municipal and well water contains dissolved minerals and oxygen that aggressively attack bare steel. Without a functioning anode rod, this corrosion accelerates until the tank develops pinhole leaks and fails catastrophically. Most premature water heater replacements stem not from manufacturing defects but from neglected anode maintenance. I learned this the hard way when my first water heater rusted out in six years — the original anode had dissolved to a pencil-thin wire, and no one had ever told me to check it.&lt;/p&gt;</description></item><item><title>What Is a GFCI Outlet? (And Why You Need One)</title><link>https://usefulhow.info/explained/what-is-a-gfci-outlet/</link><pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/explained/what-is-a-gfci-outlet/</guid><description>&lt;p&gt;A GFCI (ground fault circuit interrupter) outlet is a safety device that cuts power the moment it detects a current leak. You&amp;rsquo;ll spot it by the &amp;ldquo;TEST&amp;rdquo; and &amp;ldquo;RESET&amp;rdquo; buttons on the faceplate. It&amp;rsquo;s required by code in bathrooms, kitchens, garages, crawl spaces, and any outdoor outlet — basically anywhere water and electricity might meet.&lt;/p&gt;
-&lt;p&gt;I learned this the hard way in my first apartment. The bathroom outlet looked normal, but it wasn&amp;rsquo;t a GFCI. One morning I dropped a hair dryer that was plugged in and running. It landed in a puddle of water next to the sink. Nothing happened — not because the outlet was safe, but because I got lucky. A GFCI would have tripped instantly.&lt;/p&gt;</description></item><item><title>What Is a Fill Valve? (The Part That Refills Your Tank)</title><link>https://usefulhow.info/explained/what-is-a-fill-valve/</link><pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/explained/what-is-a-fill-valve/</guid><description>&lt;h2 id="the-short-answer"&gt;The Short Answer&lt;/h2&gt;
-&lt;p&gt;The fill valve is the tall vertical part inside your toilet tank that controls fresh water flow to refill the tank after each flush. It also sends a small stream of water through a refill tube into the bowl to maintain the trap seal. A faulty fill valve is the most common cause of a running toilet, weak flushes, and wasted water. I once ignored a faint hissing sound from a fill valve for weeks — then saw my water bill spike by forty dollars the next month.&lt;/p&gt;</description></item><item><title>Water Heater BTU Explained: Don't Buy the Wrong Size</title><link>https://usefulhow.info/explained/water-heater-btu-explained/</link><pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/explained/water-heater-btu-explained/</guid><description>&lt;h2 id="the-short-answer"&gt;The Short Answer&lt;/h2&gt;
-&lt;p&gt;BTU ratings are one of the most important numbers to check when buying a water heater. Pick a unit with too few BTUs and you&amp;rsquo;ll run out of hot water mid-shower. Choose an oversized model and you&amp;rsquo;ll waste money on unused energy every month. I once helped a friend replace a water heater he&amp;rsquo;d bought based on tank size alone, only to find out it couldn&amp;rsquo;t keep up with two back-to-back showers. The BTU rating explained the whole problem. This guide breaks down what BTU means and how to size a unit correctly.&lt;/p&gt;</description></item><item><title>How a Circuit Breaker Prevents House Fires</title><link>https://usefulhow.info/explained/circuit-breaker-prevents-house-fires/</link><pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/explained/circuit-breaker-prevents-house-fires/</guid><description>&lt;p&gt;A circuit breaker does one job most people never think about: it stops the wires inside your walls from getting hot enough to start a fire. When too many amps flow through a circuit — because you plugged in a space heater and a hair dryer on the same outlet — the breaker trips. The click you hear in the dark is the sound of your house not burning down.&lt;/p&gt;</description></item><item><title>What Does Gauge Mean on Extension Cords? (And Why It Matters)</title><link>https://usefulhow.info/explained/gauge-mean-extension-cords/</link><pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/explained/gauge-mean-extension-cords/</guid><description>&lt;h2 id="the-short-answer"&gt;The Short Answer&lt;/h2&gt;
-&lt;p&gt;Using the wrong extension cord gauge causes overheating, melted insulation, tool damage, and house fires. AWG (American Wire Gauge) ratings tell you exactly how much current a cord can safely carry over a specific distance. I once ran a circular saw on a 100-foot 16-gauge cord and couldn&amp;rsquo;t figure out why the saw kept bogging down. The cord was starving it. This guide gives you the reference tables and safety rules to match your cord to the job every time.&lt;/p&gt;</description></item><item><title>What Is a P-Trap? (Why Your Sink Needs One)</title><link>https://usefulhow.info/explained/what-is-a-p-trap/</link><pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/explained/what-is-a-p-trap/</guid><description>&lt;h2 id="the-short-answer"&gt;The Short Answer&lt;/h2&gt;
-&lt;p&gt;A P-trap is the U-shaped pipe beneath your sink that maintains a permanent water seal to block sewer gases, prevent backflow, and meet plumbing code requirements. Without it, harmful odors and potentially hazardous gases could enter your home. I learned this the hard way after moving into an old apartment where an unused bathroom sink emitted a foul stench within seconds of turning on the tap — the dry trap had left the drain completely unsealed.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Explained on UsefulHow</title>
+		<link>https://usefulhow.info/explained/</link>
+		<description>Recent content in Explained on UsefulHow</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://usefulhow.info/explained/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Ceiling Fan Direction for Summer and Winter: Which Way to Turn</title>
+				<link>https://usefulhow.info/explained/ceiling-fan-direction/</link>
+				<pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://usefulhow.info/explained/ceiling-fan-direction/</guid>
+				<description>&lt;!--&#xA;{&#xA;  &#34;@context&#34;: &#34;https://schema.org&#34;,&#xA;  &#34;@type&#34;: &#34;HowTo&#34;,&#xA;  &#34;name&#34;: &#34;Ceiling Fan Direction for Summer and Winter: Which Way to Turn&#34;,&#xA;  &#34;description&#34;: &#34;Set your ceiling fan to the correct direction each season and save on energy bills.&#34;,&#xA;  &#34;totalTime&#34;: &#34;PT5M&#34;,&#xA;  &#34;tool&#34;: [&#xA;    {&#34;@type&#34;: &#34;Thing&#34;, &#34;name&#34;: &#34;Step stool&#34;}&#xA;  ],&#xA;  &#34;supply&#34;: [],&#xA;  &#34;step&#34;: [&#xA;    {&#34;@type&#34;: &#34;HowToStep&#34;, &#34;position&#34;: 1, &#34;name&#34;: &#34;Turn the fan off&#34;, &#34;text&#34;: &#34;Pull the chain or flip the switch until blades stop completely.&#34;},&#xA;    {&#34;@type&#34;: &#34;HowToStep&#34;, &#34;position&#34;: 2, &#34;name&#34;: &#34;Locate the direction switch&#34;, &#34;text&#34;: &#34;Find the small toggle on the motor housing near the top of the fan.&#34;},&#xA;    {&#34;@type&#34;: &#34;HowToStep&#34;, &#34;position&#34;: 3, &#34;name&#34;: &#34;Set counterclockwise for summer&#34;, &#34;text&#34;: &#34;Flip the switch so blades spin counterclockwise. This pushes air down for a cooling breeze.&#34;},&#xA;    {&#34;@type&#34;: &#34;HowToStep&#34;, &#34;position&#34;: 4, &#34;name&#34;: &#34;Set clockwise for winter&#34;, &#34;text&#34;: &#34;Flip the switch the other way so blades spin clockwise. This pushes warm air down from the ceiling.&#34;},&#xA;    {&#34;@type&#34;: &#34;HowToStep&#34;, &#34;position&#34;: 5, &#34;name&#34;: &#34;Verify airflow&#34;, &#34;text&#34;: &#34;Stand under the fan on low speed. Feel for downward breeze in summer or no draft in winter.&#34;}&#xA;  ]&#xA;}&#xA;--&gt;&#xA;&lt;p&gt;Set your ceiling fan counterclockwise in summer and clockwise in winter. The direction switch sits on the motor housing and takes five seconds to flip. Get it wrong and your fan fights against you every season.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Drywall Taping and Mudding Explained: The Full Process Step by Step</title>
+				<link>https://usefulhow.info/explained/drywall-taping-mudding/</link>
+				<pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://usefulhow.info/explained/drywall-taping-mudding/</guid>
+				<description>&lt;p&gt;Let me save you some trouble. Taping and mudding drywall looks easy when you watch someone who&amp;rsquo;s done it a thousand times. It&amp;rsquo;s not easy. Not even close.&lt;/p&gt;&#xA;&lt;p&gt;I messed this up the first time. Badly.&lt;/p&gt;&#xA;&lt;p&gt;The joints showed through the paint. Screw holes kept dimpling. I sanded so much I burned through the paper facing and had to patch my patches. Anyway. Learn from my mistakes. Here&amp;rsquo;s the actual process, step by step.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Paint Sheen Explained: Flat, Eggshell, Satin, Semi-Gloss, and When to Use Each</title>
+				<link>https://usefulhow.info/explained/paint-sheen-comparison/</link>
+				<pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://usefulhow.info/explained/paint-sheen-comparison/</guid>
+				<description>&lt;p&gt;Paint sheen confuses everyone. I&amp;rsquo;ll be honest with you — I stood in the paint aisle for 20 minutes the first time, staring at cans labeled flat, eggshell, satin, and semi-gloss with zero clue what any of them actually meant.&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s the short version. Sheen equals shine. The more shine, the tougher the paint. The more shine, the more every wall flaw screams at you. Trade-offs everywhere.&lt;/p&gt;&#xA;&lt;p&gt;Let me walk you through each one.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Wood Framing vs Masonry Homes: What&#39;s the Actual Difference?</title>
+				<link>https://usefulhow.info/explained/wood-framing-vs-masonry/</link>
+				<pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://usefulhow.info/explained/wood-framing-vs-masonry/</guid>
+				<description>&lt;p&gt;Here&amp;rsquo;s the thing nobody tells you when you&amp;rsquo;re house shopping — nobody explains what the walls are actually made of. You walk through, knock on a wall, say &amp;ldquo;nice,&amp;rdquo; and move on. Big mistake.&lt;/p&gt;&#xA;&lt;p&gt;I found out the hard way so you don&amp;rsquo;t have to.&lt;/p&gt;&#xA;&lt;p&gt;Wood framing and masonry aren&amp;rsquo;t just different materials. They change how your house feels, how much it costs to heat, and what happens when a storm rolls through. Let me break it down.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>High Water Pressure? What Is a Pressure Regulator and Why You Need One</title>
+				<link>https://usefulhow.info/explained/water-pressure-regulator-why-need/</link>
+				<pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://usefulhow.info/explained/water-pressure-regulator-why-need/</guid>
+				<description>&lt;!--&#xD;&#xA;{&#xD;&#xA;  &#34;@context&#34;: &#34;https://schema.org&#34;,&#xD;&#xA;  &#34;@type&#34;: &#34;HowTo&#34;,&#xD;&#xA;  &#34;name&#34;: &#34;High Water Pressure? What Is a Pressure Regulator and Why You Need One&#34;,&#xD;&#xA;  &#34;description&#34;: &#34;Understand what a pressure regulator is and why it protects your home plumbing from high water pressure.&#34;,&#xD;&#xA;  &#34;totalTime&#34;: &#34;PT5M&#34;,&#xD;&#xA;  &#34;tool&#34;: [&#xD;&#xA;    {&#34;@type&#34;: &#34;HowToTool&#34;, &#34;name&#34;: &#34;Pressure gauge&#34;},&#xD;&#xA;    {&#34;@type&#34;: &#34;HowToTool&#34;, &#34;name&#34;: &#34;Adjustable wrench&#34;}&#xD;&#xA;  ],&#xD;&#xA;  &#34;supply&#34;: [],&#xD;&#xA;  &#34;step&#34;: [&#xD;&#xA;    {&#34;@type&#34;: &#34;HowToStep&#34;, &#34;position&#34;: 1, &#34;name&#34;: &#34;Identify high pressure&#34;, &#34;text&#34;: &#34;Check for banging pipes, leaking faucets, or appliance damage. These are common signs of excessive water pressure.&#34;},&#xD;&#xA;    {&#34;@type&#34;: &#34;HowToStep&#34;, &#34;position&#34;: 2, &#34;name&#34;: &#34;Locate the regulator&#34;, &#34;text&#34;: &#34;Find the bell-shaped valve near your main water shut-off. It is usually installed right after the water meter.&#34;},&#xD;&#xA;    {&#34;@type&#34;: &#34;HowToStep&#34;, &#34;position&#34;: 3, &#34;name&#34;: &#34;Understand the mechanism&#34;, &#34;text&#34;: &#34;Know that a spring and diaphragm automatically adjust valve flow. They maintain a safe, constant output pressure.&#34;},&#xD;&#xA;    {&#34;@type&#34;: &#34;HowToStep&#34;, &#34;position&#34;: 4, &#34;name&#34;: &#34;Test your pressure&#34;, &#34;text&#34;: &#34;Attach a gauge to an outdoor hose bib to read the exact PSI. Safe residential pressure ranges from 30 to 80 PSI.&#34;},&#xD;&#xA;    {&#34;@type&#34;: &#34;HowToStep&#34;, &#34;position&#34;: 5, &#34;name&#34;: &#34;Adjust if needed&#34;, &#34;text&#34;: &#34;Turn the adjustment screw to lower pressure above 80 PSI. Turn clockwise to increase pressure or counterclockwise to decrease it.&#34;}&#xD;&#xA;  ]&#xD;&#xA;}&#xD;&#xA;--&gt;&#xD;&#xA;&lt;h2 id=&#34;what-youll-need&#34;&gt;What You&amp;rsquo;ll Need&lt;/h2&gt;&#xA;&lt;p&gt;A pressure regulator protects your plumbing from damage caused by high water pressure. Here&amp;rsquo;s what you need to test and adjust it.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Does Your Basement Need a Sump Pump? Here&#39;s How to Tell</title>
+				<link>https://usefulhow.info/explained/basement-need-sump-pump/</link>
+				<pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://usefulhow.info/explained/basement-need-sump-pump/</guid>
+				<description>&lt;h2 id=&#34;the-short-answer&#34;&gt;The Short Answer&lt;/h2&gt;&#xA;&lt;p&gt;If your basement shows water stains, feels persistently damp after rain, or carries a musty odor, you likely need a sump pump. It&amp;rsquo;s one of those protections you hope never to use — until you walk downstairs after a heavy storm and find standing water ruining your belongings. I&amp;rsquo;ve been there. A few targeted checks will tell you whether your home needs this critical defense.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-a-sump-pump-actually-does&#34;&gt;What a Sump Pump Actually Does&lt;/h2&gt;&#xA;&lt;p&gt;A sump pump sits in a pit at the lowest point of your basement or crawlspace. When groundwater rises into the pit, a float switch activates the pump, pushing water out through a discharge pipe away from your foundation before it reaches floor level. Think of it as a preventive system, not a cleanup tool. By the time you see standing water on the floor, the pump has either failed or was never installed.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>How Compression Fittings Work (And How to Install One Without Soldering)</title>
+				<link>https://usefulhow.info/explained/compression-fittings-work-install-one-without/</link>
+				<pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://usefulhow.info/explained/compression-fittings-work-install-one-without/</guid>
+				<description>&lt;h2 id=&#34;the-short-answer&#34;&gt;The Short Answer&lt;/h2&gt;&#xA;&lt;p&gt;Compression fittings create secure, watertight pipe joints without soldering, glue, or heat. They work by squeezing a soft metal ring called a ferrule tight against the pipe and fitting body as you tighten the nut. I keep a few in my plumbing repair kit because they work on copper, PEX, and soft metal pipes, and you don&amp;rsquo;t need a torch or any special skills. They are not compatible with rigid PVC, CPVC, or ABS pipes.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Are SharkBite Fittings Reliable? What Plumbers Want You to Know</title>
+				<link>https://usefulhow.info/explained/sharkbite-fittings-reliable/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://usefulhow.info/explained/sharkbite-fittings-reliable/</guid>
+				<description>&lt;script type=&#34;application/ld+json&#34;&gt;&#xD;&#xA;{&#xD;&#xA;  &#34;@context&#34;: &#34;https://schema.org&#34;,&#xD;&#xA;  &#34;@type&#34;: &#34;HowTo&#34;,&#xD;&#xA;  &#34;name&#34;: &#34;Are SharkBite Fittings Reliable? What Plumbers Want You to Know&#34;,&#xD;&#xA;  &#34;description&#34;: &#34;Learn why SharkBite push-fit fittings fail, how to install them correctly, and where they&#39;re approved for use in residential plumbing.&#34;,&#xD;&#xA;  &#34;totalTime&#34;: &#34;PT20M&#34;,&#xD;&#xA;  &#34;tool&#34;: [&#xD;&#xA;    {&#34;@type&#34;: &#34;HowToTool&#34;, &#34;name&#34;: &#34;Rotary pipe cutter&#34;},&#xD;&#xA;    {&#34;@type&#34;: &#34;HowToTool&#34;, &#34;name&#34;: &#34;Deburring tool or fine file&#34;},&#xD;&#xA;    {&#34;@type&#34;: &#34;HowToTool&#34;, &#34;name&#34;: &#34;Manufacturer&#39;s depth gauge&#34;},&#xD;&#xA;    {&#34;@type&#34;: &#34;HowToTool&#34;, &#34;name&#34;: &#34;Disconnect clip or tongs&#34;},&#xD;&#xA;    {&#34;@type&#34;: &#34;HowToTool&#34;, &#34;name&#34;: &#34;SharkBite fitting (verify size matches pipe OD exactly)&#34;},&#xD;&#xA;    {&#34;@type&#34;: &#34;HowToTool&#34;, &#34;name&#34;: &#34;Clean lint-free rag&#34;}&#xD;&#xA;  ],&#xD;&#xA;  &#34;supply&#34;: [&#xD;&#xA;    {&#34;@type&#34;: &#34;HowToSupply&#34;, &#34;name&#34;: &#34;Isopropyl alcohol (copper only; PEX and CPVC require dry wipe only)&#34;}&#xD;&#xA;  ],&#xD;&#xA;  &#34;step&#34;: [&#xD;&#xA;    {&#xD;&#xA;      &#34;@type&#34;: &#34;HowToStep&#34;,&#xD;&#xA;      &#34;position&#34;: 1,&#xD;&#xA;      &#34;name&#34;: &#34;Verify application suitability and code compliance&#34;,&#xD;&#xA;      &#34;text&#34;: &#34;Confirm your local authority having jurisdiction permits push-fit fittings for your intended use. While SharkBite carries NSF/ANSI 61 certification for potable water across all 50 states, individual municipalities may prohibit concealed installation or require mechanical support. Never install on gas lines, hydronic heating, compressed air, or underground without written manufacturer approval.&#34;&#xD;&#xA;    },&#xD;&#xA;    {&#xD;&#xA;      &#34;@type&#34;: &#34;HowToStep&#34;,&#xD;&#xA;      &#34;position&#34;: 2,&#xD;&#xA;      &#34;name&#34;: &#34;Cut the pipe perfectly square with a rotary cutter&#34;,&#xD;&#xA;      &#34;text&#34;: &#34;Use a quality tubing cutter rotated evenly around the pipe circumference. Hacksaws, PVC ratchets, or abrasive wheels produce tapered or crushed ends that prevent uniform O-ring compression. Inspect the cut face against a flat surface and discard any section with more than a 5-degree deviation.&#34;&#xD;&#xA;    },&#xD;&#xA;    {&#xD;&#xA;      &#34;@type&#34;: &#34;HowToStep&#34;,&#xD;&#xA;      &#34;position&#34;: 3,&#xD;&#xA;      &#34;name&#34;: &#34;Deburr inside and outside edges completely&#34;,&#xD;&#xA;      &#34;text&#34;: &#34;Run a deburring tool along both inner and outer circumferences until smooth to the touch. Burrs as small as 0.005 inch can gouge the sealing O-ring during insertion, creating micro-leaks that manifest weeks later. Immediately wipe away all metal or plastic debris.&#34;&#xD;&#xA;    },&#xD;&#xA;    {&#xD;&#xA;      &#34;@type&#34;: &#34;HowToStep&#34;,&#xD;&#xA;      &#34;position&#34;: 4,&#xD;&#xA;      &#34;name&#34;: &#34;Clean the pipe and mark the exact insertion depth&#34;,&#xD;&#xA;      &#34;text&#34;: &#34;Wipe the pipe end thoroughly with a lint-free rag. For copper, use isopropyl alcohol to remove verdigris until bare metal shines. Insert the manufacturer&#39;s depth gauge into the fitting and transfer the precise insertion mark to the pipe. Do not estimate: 1/2-inch pipe requires 7/8-inch insertion, 3/4-inch requires 1-1/8-inch, and 1-inch requires 1-5/16-inch.&#34;&#xD;&#xA;    },&#xD;&#xA;    {&#xD;&#xA;      &#34;@type&#34;: &#34;HowToStep&#34;,&#xD;&#xA;      &#34;position&#34;: 5,&#xD;&#xA;      &#34;name&#34;: &#34;Insert the fitting straight to the depth mark without twisting&#34;,&#xD;&#xA;      &#34;text&#34;: &#34;Align the pipe perpendicular to the fitting and push with firm, continuous pressure until resistance stops. Visually verify through the inspection window that the pipe reaches the marked line. Never rotate or wiggle during insertion. If the mark isn&#39;t fully visible, remove and restart.&#34;&#xD;&#xA;    },&#xD;&#xA;    {&#xD;&#xA;      &#34;@type&#34;: &#34;HowToStep&#34;,&#xD;&#xA;      &#34;position&#34;: 6,&#xD;&#xA;      &#34;name&#34;: &#34;Pressure test before concealing the joint&#34;,&#xD;&#xA;      &#34;text&#34;: &#34;Restore the water supply slowly while monitoring the joint under full system pressure, typically 40 to 80 PSI for residential systems. Inspect for seepage, bulging, or dripping at 5-minute intervals over a minimum of 30 minutes. SharkBite fittings withstand 200 PSI continuous when installed correctly.&#34;&#xD;&#xA;    },&#xD;&#xA;    {&#xD;&#xA;      &#34;@type&#34;: &#34;HowToStep&#34;,&#xD;&#xA;      &#34;position&#34;: 7,&#xD;&#xA;      &#34;name&#34;: &#34;Document the location and ensure accessibility&#34;,&#xD;&#xA;      &#34;text&#34;: &#34;Photograph all joints before drywall closure and note locations in your project documentation. Never bury push-fit fittings behind finished surfaces unless your local code explicitly permits it and you install a removable access panel. Label accessible joints with the date and installer information for future troubleshooting.&#34;&#xD;&#xA;    }&#xD;&#xA;  ]&#xD;&#xA;}&#xD;&#xA;&lt;/script&gt;&#xD;&#xA;&lt;p&gt;SharkBite push-fit fittings are reliable when installed correctly on approved applications, but their reputation suffers from improper preparation — not inherent design flaws. Most field failures stem from three preventable errors: uneven pipe cuts, incomplete deburring, or partial insertion. Plumbers remain cautious because these fittings cost more than soldered or solvent-welded joints, some jurisdictions restrict concealed installation, and a hidden leak becomes catastrophic. I was nervous the first time I used one on a copper repair inside a finished wall. Years later, that joint has never leaked. The difference was spending an extra five minutes on preparation. Used properly on exposed runs, service closets, or emergency repairs — with meticulous pipe prep — they deliver decades of leak-free performance.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>AFCI vs GFCI: What&#39;s the Difference? (And Which One Do You Need?)</title>
+				<link>https://usefulhow.info/explained/afci-vs-gfci/</link>
+				<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://usefulhow.info/explained/afci-vs-gfci/</guid>
+				<description>&lt;h2 id=&#34;the-short-answer&#34;&gt;The Short Answer&lt;/h2&gt;&#xA;&lt;p&gt;AFCI and GFCI devices both save lives, but they guard against fundamentally different hazards. GFCIs prevent electrocution from ground faults — current leaking through water or a person. AFCIs prevent fires from arcing faults — sparks from damaged wires or loose connections. I remember opening my first electrical panel and seeing breakers with test buttons labeled both ways and having no idea which was which. This guide helps you identify what protection you actually have, where code requires it, and how to verify it&amp;rsquo;s working.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>PEX vs Copper vs PVC: Which Pipe Should You Use?</title>
+				<link>https://usefulhow.info/explained/pex-vs-copper-vs-pvc/</link>
+				<pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://usefulhow.info/explained/pex-vs-copper-vs-pvc/</guid>
+				<description>&lt;p&gt;PEX, copper, and PVC each have their sweet spot in a home plumbing system. PEX bends around corners without joints. Copper lasts for decades but costs more. PVC handles drain lines and vents like a champ. This guide helps you pick the right one for your project — not the one a big-box store happens to have in stock.&lt;/p&gt;&#xA;&lt;p&gt;I learned this lesson sweating copper pipe in a crawl space at 10 p.m. on a Sunday. Two hours, three burnt fingers, and one small fire later, I wished someone had told me PEX existed. Now I use it for most supply line work and save copper for exposed runs where it looks clean and professional.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>What Is Drywall Made Of? (And How to Tell It Apart from Plaster)</title>
+				<link>https://usefulhow.info/explained/what-is-drywall-made-of/</link>
+				<pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://usefulhow.info/explained/what-is-drywall-made-of/</guid>
+				<description>&lt;h2 id=&#34;the-short-answer&#34;&gt;The Short Answer&lt;/h2&gt;&#xA;&lt;p&gt;Drywall and plaster are the two most common interior wall materials in North American homes, but they require completely different repair approaches. Misidentifying your wall type leads to failed patches, wasted materials, and costly rework. I learned this the hard way when I tried patching a plaster wall in my first apartment with standard drywall mud — it cracked and fell out within a month. Use these inspection steps to confidently determine what your walls are made of before you open any repair materials.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>What Is a Stud Finder? (And How It Works)</title>
+				<link>https://usefulhow.info/explained/what-is-a-stud-finder/</link>
+				<pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://usefulhow.info/explained/what-is-a-stud-finder/</guid>
+				<description>&lt;h2 id=&#34;the-short-answer&#34;&gt;The Short Answer&lt;/h2&gt;&#xA;&lt;p&gt;A stud finder is a handheld tool that locates wooden wall studs behind drywall. It works by detecting density changes or metal fasteners under the wall surface. I spent years tapping on walls and listening for the hollow-vs-solid sound change before I finally bought one. The first time I used it to hang a heavy mirror, I realized how much guesswork I&amp;rsquo;d been doing. This tool prevents misplaced drill holes and ensures secure mounting for anything heavy.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>What Is an Anode Rod? (And Why It Extends Your Water Heater&#39;s Life)</title>
+				<link>https://usefulhow.info/explained/what-is-an-anode-rod/</link>
+				<pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://usefulhow.info/explained/what-is-an-anode-rod/</guid>
+				<description>&lt;script type=&#34;application/ld+json&#34;&gt;&#xD;&#xA;{&#xD;&#xA;  &#34;@context&#34;: &#34;https://schema.org&#34;,&#xD;&#xA;  &#34;@type&#34;: &#34;HowTo&#34;,&#xD;&#xA;  &#34;name&#34;: &#34;What Is an Anode Rod? (And Why It Extends Your Water Heater&#39;s Life)&#34;,&#xD;&#xA;  &#34;description&#34;: &#34;Learn what a water heater anode rod does, how to inspect it for depletion, and how to replace it before your tank rusts out.&#34;,&#xD;&#xA;  &#34;totalTime&#34;: &#34;PT30M&#34;,&#xD;&#xA;  &#34;tool&#34;: [&#xD;&#xA;    {&#34;@type&#34;: &#34;HowToTool&#34;, &#34;name&#34;: &#34;1-1/16-inch socket wrench (1-1/8-inch for some Rheem/AO Smith models)&#34;},&#xD;&#xA;    {&#34;@type&#34;: &#34;HowToTool&#34;, &#34;name&#34;: &#34;Breaker bar or long ratchet handle&#34;},&#xD;&#xA;    {&#34;@type&#34;: &#34;HowToTool&#34;, &#34;name&#34;: &#34;Garden hose&#34;},&#xD;&#xA;    {&#34;@type&#34;: &#34;HowToTool&#34;, &#34;name&#34;: &#34;Flashlight&#34;}&#xD;&#xA;  ],&#xD;&#xA;  &#34;supply&#34;: [&#xD;&#xA;    {&#34;@type&#34;: &#34;HowToSupply&#34;, &#34;name&#34;: &#34;Teflon tape or pipe thread sealant&#34;},&#xD;&#xA;    {&#34;@type&#34;: &#34;HowToSupply&#34;, &#34;name&#34;: &#34;Replacement anode rod (magnesium, aluminum, or zinc-aluminum alloy)&#34;}&#xD;&#xA;  ],&#xD;&#xA;  &#34;step&#34;: [&#xD;&#xA;    {&#xD;&#xA;      &#34;@type&#34;: &#34;HowToStep&#34;,&#xD;&#xA;      &#34;position&#34;: 1,&#xD;&#xA;      &#34;name&#34;: &#34;Shut off the power or gas and the cold water supply&#34;,&#xD;&#xA;      &#34;text&#34;: &#34;Turn off the dedicated circuit breaker for an electric heater, or rotate the gas control valve to OFF. Close the cold water inlet valve completely to hydraulically isolate the tank.&#34;&#xD;&#xA;    },&#xD;&#xA;    {&#xD;&#xA;      &#34;@type&#34;: &#34;HowToStep&#34;,&#xD;&#xA;      &#34;position&#34;: 2,&#xD;&#xA;      &#34;name&#34;: &#34;Relieve pressure and drain 2 to 3 gallons of water&#34;,&#xD;&#xA;      &#34;text&#34;: &#34;Open the nearest hot water faucet to equalize internal pressure. Connect a garden hose to the tank&#39;s drain valve and discharge 2 to 3 gallons into a floor drain or bucket. Lowering the water level below the anode port eliminates the hydrostatic pressure that causes scalding spray when loosening the rod.&#34;&#xD;&#xA;    },&#xD;&#xA;    {&#xD;&#xA;      &#34;@type&#34;: &#34;HowToStep&#34;,&#xD;&#xA;      &#34;position&#34;: 3,&#xD;&#xA;      &#34;name&#34;: &#34;Locate and expose the anode rod hex head&#34;,&#xD;&#xA;      &#34;text&#34;: &#34;Find the hexagonal plug on the tank&#39;s upper surface, often concealed beneath a plastic dust cap. Remove all insulation and debris from the surrounding threads. If heavily corroded, apply penetrating oil and wait 10 minutes. Verify socket engagement depth before applying torque.&#34;&#xD;&#xA;    },&#xD;&#xA;    {&#xD;&#xA;      &#34;@type&#34;: &#34;HowToStep&#34;,&#xD;&#xA;      &#34;position&#34;: 4,&#xD;&#xA;      &#34;name&#34;: &#34;Remove the anode rod with steady leverage&#34;,&#xD;&#xA;      &#34;text&#34;: &#34;Seat the socket fully onto the hex head. Attach a breaker bar and apply smooth, sustained counterclockwise force. Jerking motions risk shearing the rod stub inside the tank. Once broken free, lift the rod vertically without lateral stress.&#34;&#xD;&#xA;    },&#xD;&#xA;    {&#xD;&#xA;      &#34;@type&#34;: &#34;HowToStep&#34;,&#xD;&#xA;      &#34;position&#34;: 5,&#xD;&#xA;      &#34;name&#34;: &#34;Inspect the rod for depletion&#34;,&#xD;&#xA;      &#34;text&#34;: &#34;Examine the entire length under bright light. The rod is functionally exhausted if the central steel core wire is exposed for more than 6 continuous inches, or if less than half an inch of sacrificial coating remains at any section. Severe pitting, flaking, or cauliflower-like deposits signal advanced consumption.&#34;&#xD;&#xA;    },&#xD;&#xA;    {&#xD;&#xA;      &#34;@type&#34;: &#34;HowToStep&#34;,&#xD;&#xA;      &#34;position&#34;: 6,&#xD;&#xA;      &#34;name&#34;: &#34;Install the new rod with proper sealing&#34;,&#xD;&#xA;      &#34;text&#34;: &#34;Wrap the male threads clockwise with 3 to 4 wraps of Teflon tape, or apply manufacturer-approved sealant. Insert the rod fully until it seats against the tank&#39;s internal shoulder. Hand-start the threads to avoid cross-threading, then tighten securely with a wrench.&#34;&#xD;&#xA;    },&#xD;&#xA;    {&#xD;&#xA;      &#34;@type&#34;: &#34;HowToStep&#34;,&#xD;&#xA;      &#34;position&#34;: 7,&#xD;&#xA;      &#34;name&#34;: &#34;Refill the tank and verify leak-free operation&#34;,&#xD;&#xA;      &#34;text&#34;: &#34;Ensure the drain valve is fully closed. Slowly reopen the cold water inlet while leaving the hot faucet running to bleed trapped air. When a steady, bubble-free stream flows from the faucet, close it. Monitor the anode port closely for 5 minutes for any drips.&#34;&#xD;&#xA;    }&#xD;&#xA;  ]&#xD;&#xA;}&#xD;&#xA;&lt;/script&gt;&#xD;&#xA;&lt;p&gt;An anode rod is a sacrificial metal rod threaded into the top of your water heater tank. It protects the steel liner through galvanic action: as the most electrochemically active metal in the system, it corrodes preferentially so the tank doesn&amp;rsquo;t. All municipal and well water contains dissolved minerals and oxygen that aggressively attack bare steel. Without a functioning anode rod, this corrosion accelerates until the tank develops pinhole leaks and fails catastrophically. Most premature water heater replacements stem not from manufacturing defects but from neglected anode maintenance. I learned this the hard way when my first water heater rusted out in six years — the original anode had dissolved to a pencil-thin wire, and no one had ever told me to check it.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>What Is a GFCI Outlet? (And Why You Need One)</title>
+				<link>https://usefulhow.info/explained/what-is-a-gfci-outlet/</link>
+				<pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://usefulhow.info/explained/what-is-a-gfci-outlet/</guid>
+				<description>&lt;p&gt;A GFCI (ground fault circuit interrupter) outlet is a safety device that cuts power the moment it detects a current leak. You&amp;rsquo;ll spot it by the &amp;ldquo;TEST&amp;rdquo; and &amp;ldquo;RESET&amp;rdquo; buttons on the faceplate. It&amp;rsquo;s required by code in bathrooms, kitchens, garages, crawl spaces, and any outdoor outlet — basically anywhere water and electricity might meet.&lt;/p&gt;&#xA;&lt;p&gt;I learned this the hard way in my first apartment. The bathroom outlet looked normal, but it wasn&amp;rsquo;t a GFCI. One morning I dropped a hair dryer that was plugged in and running. It landed in a puddle of water next to the sink. Nothing happened — not because the outlet was safe, but because I got lucky. A GFCI would have tripped instantly.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>What Is a Fill Valve? (The Part That Refills Your Tank)</title>
+				<link>https://usefulhow.info/explained/what-is-a-fill-valve/</link>
+				<pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://usefulhow.info/explained/what-is-a-fill-valve/</guid>
+				<description>&lt;h2 id=&#34;the-short-answer&#34;&gt;The Short Answer&lt;/h2&gt;&#xA;&lt;p&gt;The fill valve is the tall vertical part inside your toilet tank that controls fresh water flow to refill the tank after each flush. It also sends a small stream of water through a refill tube into the bowl to maintain the trap seal. A faulty fill valve is the most common cause of a running toilet, weak flushes, and wasted water. I once ignored a faint hissing sound from a fill valve for weeks — then saw my water bill spike by forty dollars the next month.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Water Heater BTU Explained: Don&#39;t Buy the Wrong Size</title>
+				<link>https://usefulhow.info/explained/water-heater-btu-explained/</link>
+				<pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://usefulhow.info/explained/water-heater-btu-explained/</guid>
+				<description>&lt;h2 id=&#34;the-short-answer&#34;&gt;The Short Answer&lt;/h2&gt;&#xA;&lt;p&gt;BTU ratings are one of the most important numbers to check when buying a water heater. Pick a unit with too few BTUs and you&amp;rsquo;ll run out of hot water mid-shower. Choose an oversized model and you&amp;rsquo;ll waste money on unused energy every month. I once helped a friend replace a water heater he&amp;rsquo;d bought based on tank size alone, only to find out it couldn&amp;rsquo;t keep up with two back-to-back showers. The BTU rating explained the whole problem. This guide breaks down what BTU means and how to size a unit correctly.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>How a Circuit Breaker Prevents House Fires</title>
+				<link>https://usefulhow.info/explained/circuit-breaker-prevents-house-fires/</link>
+				<pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://usefulhow.info/explained/circuit-breaker-prevents-house-fires/</guid>
+				<description>&lt;p&gt;A circuit breaker does one job most people never think about: it stops the wires inside your walls from getting hot enough to start a fire. When too many amps flow through a circuit — because you plugged in a space heater and a hair dryer on the same outlet — the breaker trips. The click you hear in the dark is the sound of your house not burning down.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>What Does Gauge Mean on Extension Cords? (And Why It Matters)</title>
+				<link>https://usefulhow.info/explained/gauge-mean-extension-cords/</link>
+				<pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://usefulhow.info/explained/gauge-mean-extension-cords/</guid>
+				<description>&lt;h2 id=&#34;the-short-answer&#34;&gt;The Short Answer&lt;/h2&gt;&#xA;&lt;p&gt;Using the wrong extension cord gauge causes overheating, melted insulation, tool damage, and house fires. AWG (American Wire Gauge) ratings tell you exactly how much current a cord can safely carry over a specific distance. I once ran a circular saw on a 100-foot 16-gauge cord and couldn&amp;rsquo;t figure out why the saw kept bogging down. The cord was starving it. This guide gives you the reference tables and safety rules to match your cord to the job every time.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>What Is a P-Trap? (Why Your Sink Needs One)</title>
+				<link>https://usefulhow.info/explained/what-is-a-p-trap/</link>
+				<pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://usefulhow.info/explained/what-is-a-p-trap/</guid>
+				<description>&lt;h2 id=&#34;the-short-answer&#34;&gt;The Short Answer&lt;/h2&gt;&#xA;&lt;p&gt;A P-trap is the U-shaped pipe beneath your sink that maintains a permanent water seal to block sewer gases, prevent backflow, and meet plumbing code requirements. Without it, harmful odors and potentially hazardous gases could enter your home. I learned this the hard way after moving into an old apartment where an unused bathroom sink emitted a foul stench within seconds of turning on the tap — the dry trap had left the drain completely unsealed.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
