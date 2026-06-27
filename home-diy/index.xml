@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home DIY on UsefulHow</title><link>https://usefulhow.info/home-diy/</link><description>Recent content in Home DIY on UsefulHow</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://usefulhow.info/home-diy/index.xml" rel="self" type="application/rss+xml"/><item><title>Garbage Disposal Not Working? How to Reset and Fix It</title><link>https://usefulhow.info/home-diy/garbage-disposal-reset/</link><pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/home-diy/garbage-disposal-reset/</guid><description>&lt;!--
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home DIY on UsefulHow</title><link>https://usefulhow.info/home-diy/</link><description>Recent content in Home DIY on UsefulHow</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 27 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://usefulhow.info/home-diy/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Fix a Sticky Window That Won't Open or Close Smoothly</title><link>https://usefulhow.info/home-diy/fix-sticky-window/</link><pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/home-diy/fix-sticky-window/</guid><description>&lt;!--
+{
+ "@context": "https://schema.org",
+ "@type": "HowTo",
+ "name": "How to Fix a Sticky Window That Won't Open or Close Smoothly",
+ "description": "Diagnose and fix a sticky window caused by paint buildup, humidity swelling, or dirty tracks.",
+ "totalTime": "PT45M",
+ "tool": [
+ {"@type": "Thing", "name": "Utility knife or putty knife"},
+ {"@type": "Thing", "name": "Sandpaper (120 and 220 grit)"},
+ {"@type": "Thing", "name": "Silicone spray or paraffin wax"},
+ {"@type": "Thing", "name": "Vacuum with brush attachment"},
+ {"@type": "Thing", "name": "Damp rag"}
+ ],
+ "supply": [],
+ "step": [
+ {"@type": "HowToStep", "position": 1, "name": "Diagnose the cause", "text": "Try opening the window slowly. If it's painted shut, you'll see paint bridges between the sash and frame. If it rubs in one spot, it's swelling or misalignment. If the track feels gritty, it's dirt buildup."},
+ {"@type": "HowToStep", "position": 2, "name": "Break paint seals", "text": "Run a utility knife along the seam where the sash meets the frame on all sides. Go over it twice if the paint is thick. Gently tap a putty knife into the seam and twist to break the bond."},
+ {"@type": "HowToStep", "position": 3, "name": "Sand the rubbing spots", "text": "Open the window and find where wood is rubbing. Sand those areas with 120 grit first, then smooth with 220 grit. Don't over-sand — remove just enough so the sash moves freely with about 1/16 inch of clearance."},
+ {"@type": "HowToStep", "position": 4, "name": "Clean the tracks", "text": "Vacuum the bottom track and wipe with a damp rag. Use an old toothbrush for corners. Let it dry completely before lubricating."},
+ {"@type": "HowToStep", "position": 5, "name": "Lubricate moving surfaces", "text": "Spray silicone lubricant on the tracks and the edges where the sash slides. Wipe off excess. Alternatively, rub a candle (paraffin wax) along the sliding surfaces — it lasts longer and doesn't attract dust."},
+ {"@type": "HowToStep", "position": 6, "name": "Test and recheck", "text": "Open and close the window five times. It should glide without catching. If it still sticks in one spot, sand a little more and re-lubricate."}
+ ]
+}
+--&gt;
+&lt;p&gt;Every house has at least one window that puts up a fight. You grab the handle, pull, and nothing. Or it moves — barely — with a groan that makes you think the whole frame is about to come apart. Nine times out of ten, the fix takes less than an hour and costs nothing if you already own a utility knife and some sandpaper.&lt;/p&gt;</description></item><item><title>Garbage Disposal Not Working? How to Reset and Fix It</title><link>https://usefulhow.info/home-diy/garbage-disposal-reset/</link><pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate><guid>https://usefulhow.info/home-diy/garbage-disposal-reset/</guid><description>&lt;!--
 {
  "@context": "https://schema.org",
  "@type": "HowTo",
